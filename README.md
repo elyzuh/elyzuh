@@ -1,4 +1,4 @@
-<h3 align="center"><img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/08a060b6-ed1d-48d2-8163-c951d8f5873c" /><img src="https://github.com/user-attachments/assets/7636d734-a91f-4e47-a174-0c7bea3319cf"/><img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/eb956f78-27b1-4af3-a2fe-b20fef9252a7" /></h1>
+<h3 align="center"><img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/08a060b6-ed1d-48d2-8163-c951d8f5873c" /><img height="100" src="https://github.com/user-attachments/assets/7636d734-a91f-4e47-a174-0c7bea3319cf"/><img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/eb956f78-27b1-4af3-a2fe-b20fef9252a7" /></h1>
 <h3 align="center">A Computer Science student from Cebu.</h3>
 
 - 🌱 I’m currently learning: **machine learning**
