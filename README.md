@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/user-attachments/assets/7636d734-a91f-4e47-a174-0c7bea3319cf"/></h1>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/7636d734-a91f-4e47-a174-0c7bea3319cf"/><img src="https://github.com/user-attachments/assets/eb956f78-27b1-4af3-a2fe-b20fef9252a7"/></h1>
 <h3 align="center">A Computer Science student from Cebu.</h3>
 
 - 🌱 I’m currently learning: **machine learning**
