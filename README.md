@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Katrina!</h1>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hello" width="100"/></h1>
+<h1 align="center"><img src="https://github.com/user-attachments/assets/7636d734-a91f-4e47-a174-0c7bea3319cf"/></h1>
 <h3 align="center">A Computer Science student from Cebu.</h3>
 
 - 🌱 I’m currently learning **machine learning**
